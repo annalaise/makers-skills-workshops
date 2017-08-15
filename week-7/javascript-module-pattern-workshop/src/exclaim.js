@@ -7,3 +7,5 @@
 
   exports.exclaim = exclaim;
 })(this);
+
+console.log(this)

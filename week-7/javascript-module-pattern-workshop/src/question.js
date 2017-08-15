@@ -9,3 +9,5 @@
 
   exports.question = question;
 })(this);
+
+console.log(this)
